@@ -7,4 +7,4 @@ after_success:
   cid publish'
 env:
   global:
-    secure: BZDJ2isTNIUr+gQMNE7N1ZsX08Rymh/YA6JZyQecFYAqgA6ufB2sQt0hRg7YdKUAP34fuVhDR5bIMny5fG1HaUsheqDo8JCCfMhPvXRgtLaqeDcmTXpUeaoj1AX7+Hd5ynSPUphwHRQLyss5Yk7i4dIh/th2xQ1HzMaC/6i9PNA=
+    secure: HiB6A0WmZdr7oXn9NKUnkW8Qh8UmE2yJdY4ZQW/IalCnQzkcvj6UCPsFJiJYUxGuNUy/Tvqtqh5jKuVqHw5JmzYW/S2/9SQy3A5v1QxnHp2wrKo6Oe5sOH8K5PHMpO4sqLwh1EpQ49tMJQd9G42A5ZJRCAmQMKgvukN1wSVGiJQ=
